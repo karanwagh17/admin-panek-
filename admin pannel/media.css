@@ -1,0 +1,96 @@
+@media (min-width:992px) and (max-width:1199px)
+{
+    .cart.mt-4 {
+        right: 30px;
+    }
+    button.btn.btn-transparent.text-white {
+        position: relative;
+        left: 66px;
+    }
+    .box-images {
+        position: relative;
+        right: 106px;
+        top: 37px;
+        width: 42px;
+    }
+    img.four {
+        width: 163px;
+        position: relative;
+        top: 13px;
+    }
+    .first h6 {
+        font-size: 20px;
+        color: white;
+        position: absolute;
+        bottom: 75px;
+    }
+}
+@media (min-width:576px) and (max-width:767px)
+{
+    .box-imagess {
+        position: relative;
+        position: relative;
+        bottom: 195px;
+        left: 114px;
+        width: 474px;
+    }
+    button.btn.btn-transparent.text-white {
+        position: relative;
+        left: 394px;
+    }
+    img.sec-img {
+        width: 474px;
+        position: relative;
+        bottom: 36px;
+        left: 13px;
+    }
+    img.sec-img1 {
+        width: 498px;
+        position: relative;
+        bottom: 46px;
+        left: -3px;
+    }
+    img.four {
+        width: 474px;
+    }
+    .first-content {
+        position: relative;
+        bottom: 17px;
+    }
+  
+}
+@media (min-width:768px) and (max-width:991px)
+{
+    .box-imagess {
+        position: relative;
+        position: relative;
+        bottom: 150px;
+        left: 124px;
+        width: 300px;
+    }
+    .sec-img {
+        position: relative;
+        position: relative;
+        bottom: 11px;
+        left: 9px;
+        width: 300px;
+    }
+    img.sec-img1 {
+        width: 340px;
+        left: -4px;
+        position: relative;
+        bottom: 21px;
+    }
+    img.four {
+        width: 318px;
+    }
+    
+    button.btn.btn-transparent.text-white {
+        position: relative;
+        left: 212px;
+    }    
+    .first-content {
+        position: relative;
+        bottom: 25px;
+    }
+}

@@ -1,0 +1,217 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+li {
+    display: list-item;
+    color: white;
+
+}
+
+
+.navbar
+{
+    width: 29%;
+    /* height: 100vh; */
+     background-color: #212631; 
+    overflow-y: scroll;
+    position: sticky;
+    top: 0%;
+    float: left;
+} 
+.accordion-item.mb-3.bg-dark {
+    border: none;
+    border-bottom: 1px solid #4f6493;
+}
+/* .header */
+.header
+ {
+    height: 70px;
+    /* width: 172%; */
+    border-bottom: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+span
+{
+    margin-left: 20px;
+}
+.second
+{
+    display: flex;
+    justify-content: space-between;
+    width: fit-content  ;
+}
+.notification span
+{
+    position: relative;
+    bottom: 5px;
+    right: 25px;
+    background-color: red;
+    border-radius: 50%;
+    padding: 0px 7px;
+}
+.notification
+{
+    border-right: 1px solid black;
+    margin-right: 15px;
+}
+.trans
+{
+    border-right: 1px solid black;
+    margin-right: 15px; 
+
+}
+.trans i
+{
+    margin: 0px 15px 0px 0px;
+}
+.profile i
+{
+    margin: 0px 15px 0px 0px;
+}
+.modal-backdrop.show {
+    /* opacity: .5; */
+    display: none;
+}
+div#offcanvas {
+    overflow-y: scroll;
+    background-color: rgb(33, 38, 49);
+    visibility: visible;
+    width: 298px;
+}
+i#icon {
+    position: relative;
+    top: 25px;
+    right: 6px;
+}
+.first-content
+{
+    position: relative;
+    bottom: 16px;
+}
+button.btn.btn-light.d-sm-block.d-lg-none {
+    position: relative;
+    top: 33px;
+    right: 44px;
+    background: transparent;
+    border: none;
+}
+.tab-content
+{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    position: sticky;
+    top: 0%;
+     float: left;
+    overflow-y: scroll;
+}
+.first
+{
+    float: left;
+}
+.first h6
+{
+    font-size: 20px;
+    color: white;
+}
+.first span{
+    color: white;
+    font-weight: 200;
+    padding-right: 20px;
+    margin: 0%;
+}
+.first h6 {
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    bottom: 106px;
+}
+button.btn.btn-transparent.text-white {
+    position: relative;
+    left: 87px;
+}
+.box-imagess
+{
+    position: relative;
+       position: relative;
+       bottom: 128px;
+       left: 109px;
+
+}
+/* .four {
+    position: relative;
+    right: 104px;
+    top: 24px;
+} */
+.box-images {
+    position: relative;
+    right: 106px;
+    top: 37px;
+}
+.card.mt-3 {
+    position: relative;
+    right: 10px;
+}
+.cart.mt-4 {
+    position: relative;
+    right: 25px;
+}
+.card-header {
+    padding: 0.5rem 1rem;
+    margin-bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    padding-left: 37px;
+}
+canvas#social-box-chart-2 {
+    width: 20px;
+}
+table {
+    caption-side: bottom;
+    border-collapse: collapse;
+}
+.footer-content
+{
+    display: flex;
+    height: 60px;
+    background-color: whitesmoke;
+    align-items: center;
+}
+.first-content {
+    position: relative;
+    bottom: 2px;
+}   
+img.sec-img1 {
+    position: relative;
+    left: -3px;
+}
+button.btn.btn-transparent.text-white {
+    position: relative;
+    left: 117px;
+}
+i.bi.bi-list.fs-3.d-sm-none.d-md-none.d-lg-block {
+    position: relative;
+    top: 32px;
+    right: 15px;
+}
+.first-content {
+    position: relative;
+    bottom: 18px;
+}
+.progress-thin {
+    height: 4px;
+}
+.progress-group-header {
+    display: flex;
+    flex-basis: 100%;
+    align-items: center;
+    margin-bottom: .25rem;
+}
+.progress-bars {
+    background-color: green;
+}
